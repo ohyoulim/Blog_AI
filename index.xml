@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://github.com/ohyoulim/Blog_AI/</link>
+<atom:link href="https://github.com/ohyoulim/Blog_AI/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Tue, 06 Jan 2026 15:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://github.com/ohyoulim/Blog_AI/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -29,14 +29,14 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://github.com/ohyoulim/Blog_AI/posts/post-with-code/</guid>
   <pubDate>Tue, 06 Jan 2026 15:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/ohyoulim/Blog_AI/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://github.com/ohyoulim/Blog_AI/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -44,19 +44,19 @@
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://github.com/ohyoulim/Blog_AI/posts/welcome/</guid>
   <pubDate>Sat, 03 Jan 2026 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://your-website-url.example.com/posts/notebooklm/</link>
+  <link>https://github.com/ohyoulim/Blog_AI/posts/notebooklm/</link>
   <description><![CDATA[ 
 
 
@@ -64,7 +64,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767715011.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767715011.png" class="img-fluid figure-img"></p>
 <figcaption>A tablet screen showing a mind map for biology, with nodes for cells, genetics, and evolution, and a learning progress chart.</figcaption>
 </figure>
 </div>
@@ -73,7 +73,7 @@
 <p>우리는 매일같이 쏟아지는 정보 속에서 살고 있습니다. 새로운 기술을 배우거나, 복잡한 사회 현상을 이해하거나, 단순히 궁금한 주제를 깊이 파고들고 싶을 때, 어디서부터 시작해야 할지 막막했던 경험, 한 번쯤은 있으실 겁니다. 신뢰할 수 있는 정보를 찾고, 그 내용을 온전히 내 것으로 만드는 과정은 결코 쉽지 않죠.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767769904.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767769904.png" class="img-fluid figure-img"></p>
 <figcaption>A person looking lost and overwhelmed in a swirling vortex of information, with a glowing path leading out, representing a guide.</figcaption>
 </figure>
 </div>
@@ -86,7 +86,7 @@
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767769957.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767769957.png" class="img-fluid figure-img"></p>
 <figcaption>A digital document with a golden seal of approval, symbolizing high-quality, expert-curated content. The seal has a stylized ‘E’ for expert.</figcaption>
 </figure>
 </div>
@@ -95,7 +95,7 @@
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767769971.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767769971.png" class="img-fluid figure-img"></p>
 <figcaption>A friendly, approachable robot and a person sitting at a desk, having a conversation with speech bubbles. The person is asking a question, and the robot is providing a helpful answer with a lightbulb icon.</figcaption>
 </figure>
 </div>
@@ -104,7 +104,7 @@
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767769985.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767769985.png" class="img-fluid figure-img"></p>
 <figcaption>A stylized human head in profile. Inside, a glowing mind map connects different ideas, and a small clock icon is ticking, representing saved time.</figcaption>
 </figure>
 </div>
@@ -116,7 +116,7 @@
 <p>“Featured Notebooks”의 가장 큰 장점은 콘텐츠의 질입니다. 구글은 각 분야의 전문가 및 유수의 기관들과의 파트너십을 통해 과학, 역사, 시사, 예술 등 다양한 주제에 대한 노트북을 제공합니다.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767770001.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767770001.png" class="img-fluid figure-img"></p>
 <figcaption>A digital library interface showing a curated collection of notebooks. The notebooks have cover designs featuring logos of well-known institutions like ‘The Economist’ and ‘The Atlantic’.</figcaption>
 </figure>
 </div>
@@ -127,7 +127,7 @@
 <p>단순히 자료를 읽는 것에서 그치지 않습니다. “Featured Notebooks”는 사용자가 AI와 상호작용하며 지식을 습득할 수 있는 환경을 제공합니다.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767770085.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767770085.png" class="img-fluid figure-img"></p>
 <figcaption>A close-up of a computer screen showing a chat interface. A user has typed, ‘Can you explain quantum entanglement in simple terms?’ and an AI tutor is replying with a clear explanation and a small citation icon.</figcaption>
 </figure>
 </div>
@@ -138,7 +138,7 @@
 <p>방대한 텍스트를 모두 읽지 않아도 핵심을 파악할 수 있도록 돕는 기능들도 탑재되어 있습니다.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767770101.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767770101.png" class="img-fluid figure-img"></p>
 <figcaption>A person looking at a tablet. On the screen, a mind map of a complex topic is displayed on one half, and an audio player with a waveform is on the other half, with headphones connected.</figcaption>
 </figure>
 </div>
@@ -150,7 +150,7 @@
 <p>NotebookLM의 “Featured Notebooks” 기능은 단순한 정보 제공을 넘어, 신뢰할 수 있는 지식에 대한 접근성을 민주화하고, AI와의 상호작용을 통해 학습의 패러다임을 바꾸고 있습니다. 이는 개인이 전문가 수준의 자료를 바탕으로 더 깊이 있는 질문을 던지고, 창의적인 통찰을 얻을 수 있는 새로운 시대를 예고합니다.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebooklm/gemini-image-1767770116.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/ohyoulim/Blog_AI/posts/notebooklm/gemini-image-1767770116.png" class="img-fluid figure-img"></p>
 <figcaption>A person standing on a hill, looking out at a bright, futuristic landscape that represents the future of learning and knowledge exploration, with glowing data streams and network graphics.</figcaption>
 </figure>
 </div>
@@ -161,8 +161,8 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/notebooklm/</guid>
-  <pubDate>Wed, 07 Jan 2026 08:56:08 GMT</pubDate>
+  <guid>https://github.com/ohyoulim/Blog_AI/posts/notebooklm/</guid>
+  <pubDate>Wed, 07 Jan 2026 09:00:11 GMT</pubDate>
 </item>
 </channel>
 </rss>
