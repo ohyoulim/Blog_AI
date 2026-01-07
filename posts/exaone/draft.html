@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog</title>
+<title>draft – blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-07730e18dc27d1bd8caa1c80bf937234.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-07730e18dc27d1bd8caa1c80bf937234.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +68,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="blog" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">blog</span>
     </a>
   </div>
@@ -151,7 +91,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -172,244 +112,64 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="QUk=">AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YW5hbHlzaXM=">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29kZQ==">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TEc=">LG <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TWVkaWNhbA==">Medical <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VGVjaA==">Tech <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
+<section id="초안-엑사원-패스-ai-1분-만에-암-유전자-변이를-예측하다" class="level1">
+<h1>[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다</h1>
+<section id="도입" class="level2">
+<h2 class="anchored" data-anchor-id="도입">도입</h2>
+<p>만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다.</p>
+</section>
+<section id="핵심-요약" class="level2">
+<h2 class="anchored" data-anchor-id="핵심-요약">핵심 요약</h2>
+<p>엑사원 패스는 정밀 의료를 위한 혁신적인 AI 모델로, 세 가지 핵심적인 특징을 가지고 있습니다.</p>
+<ol type="1">
+<li><strong>’2주’를 ’1분’으로, 경이로운 시간 단축</strong>: 기존에 2주 이상 걸리던 유전자 변이 분석 및 진단 시간을 단 1분으로 압축하여 치료의 골든타임을 확보합니다.</li>
+<li><strong>세계 최고 수준의 예측 정확도</strong>: 78.4%라는 높은 정확도로 암 관련 유전자 변이를 예측하여, 더 빠르고 정확한 진단을 돕습니다.</li>
+<li><strong>함께 발전하는 AI 생태계</strong>: 연구 모델을 허깅페이스에 공개하여 전 세계 연구자들과 함께 기술을 발전시키고 의료 AI 생태계에 기여합니다.</li>
+</ol>
+</section>
+<section id="상세-설명" class="level2">
+<h2 class="anchored" data-anchor-id="상세-설명">상세 설명</h2>
+<section id="ai-병리-이미지와-유전-정보를-동시에-읽다" class="level3">
+<h3 class="anchored" data-anchor-id="ai-병리-이미지와-유전-정보를-동시에-읽다">AI, 병리 이미지와 유전 정보를 동시에 읽다</h3>
+<p>엑사원 패스는 어떻게 이런 일을 해낼 수 있을까요? 비밀은 ’병리 이미지’와 ’멀티오믹스 데이터’를 함께 분석하는 데 있습니다. ’병리 이미지’가 우리 몸속 세포의 모습을 담은 아주 상세한 지도라면, ’멀티오믹스 데이터’는 그 세포의 모든 활동 정보가 담긴 사용 설명서와 같습니다. 엑사원 패스는 이 두 가지를 동시에 보고, 인간의 눈으로는 찾기 힘든 미세한 암의 신호와 유전자 변이의 연관성을 찾아냅니다.</p>
+</section>
+<section id="골든타임을-잡는-1분의-혁신" class="level3">
+<h3 class="anchored" data-anchor-id="골든타임을-잡는-1분의-혁신">’골든타임’을 잡는 1분의 혁신</h3>
+<p>암 치료는 시간과의 싸움입니다. 어떤 유전자 변이가 있는지 빨리 알아낼수록 환자에게 가장 잘 맞는 치료법을 신속하게 적용할 수 있습니다. 엑사원 패스는 2주가 걸리던 분석 시간을 1분으로 줄여, 의사가 환자의 ’골든타임’을 놓치지 않고 최적의 치료 계획을 세울 수 있도록 돕습니다.</p>
+</section>
+<section id="협력으로-암-정복에-기여하다" class="level3">
+<h3 class="anchored" data-anchor-id="협력으로-암-정복에-기여하다">협력으로 암 정복에 기여하다</h3>
+<p>LG AI 연구원은 엑사원 패스 모델을 세계 최대의 AI 커뮤니티인 ’허깅페이스’에 공개했습니다. 이는 더 많은 연구자들이 이 기술을 활용하여 다양한 암 종류에 대한 연구를 가속화하고, 전 세계적인 협력을 통해 암 정복이라는 공동의 목표에 더 빨리 다가가기 위함입니다.</p>
+</section>
+</section>
+<section id="마무리" class="level2">
+<h2 class="anchored" data-anchor-id="마무리">마무리</h2>
+<p>엑사원 패스는 AI 기술이 인류의 건강에 얼마나 직접적이고 긍정적인 영향을 미칠 수 있는지를 보여주는 놀라운 사례입니다. 진단 시간을 단축하고 정확도를 높여, ‘정밀 의료’ 시대를 한 걸음 더 가까이 가져오고 있습니다. AI와 함께라면 암과의 싸움에서 인류가 승리할 날도 머지않았습니다.</p>
+</section>
+<section id="참고-자료" class="level2">
+<h2 class="anchored" data-anchor-id="참고-자료">참고 자료</h2>
+<ul>
+<li>조선비즈: https://biz.chosun.com/it-science/ict/2024/05/13/2HT4XDSYABG5RO4D5OSM25YECU/</li>
+<li>시사저널e: http://www.sisajournal-e.com/news/articleView.html?idxno=404987</li>
+<li>THE AI: https://www.newstheai.com/news/articleView.html?idxno=28889</li>
+<li>데일리팝: http://www.dailypop.kr/news/articleView.html?idxno=77241</li>
+</ul>
 
 
+</section>
+</section>
 
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1767790287105" data-listing-reading-time-sort="2" data-listing-word-count-sort="307">
-<div class="thumbnail"><a href="./posts/exaone/draft.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/exaone/draft.html" class="no-external">[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/exaone/draft.html" class="no-external">
-만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/exaone/draft.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1767790028884" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
-<div class="thumbnail"><a href="./posts/exaone/search.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/exaone/search.html" class="no-external">LG 엑사원 패스(EXAONE Path) 관련 정보</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/exaone/search.html" class="no-external">
-LG AI 연구원에서 개발한 차세대 정밀 의료 AI 모델 ’엑사원 패스(EXAONE Path) 2.0’은 암을 포함한 다양한 유전자 변이 관련 질병의 조기 진단에 특화되어 있습니다. 병리 조직 이미지와 유전자 관련 멀티오믹스 데이터를 함께 학습하여, 눈에 보이지 않는 미세한 변화까지 감지하고 유전자 변이를…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/exaone/search.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="QUklMkNNZWRpY2FsJTJDTEc=" data-listing-date-sort="1767711600000" data-listing-file-modified-sort="1767790371618" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="321">
-<div class="thumbnail"><a href="./posts/exaone/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/exaone/thumbnail.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/exaone/index.html" class="no-external">엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUk='); return false;">AI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWNhbA=='); return false;">Medical</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TEc='); return false;">LG</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/exaone/index.html" class="no-external">
-만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/exaone/index.html" class="no-external">
-<div class="listing-date">
-Jan 7, 2026
-</div>
-<div class="listing-author">
-AI 어시스턴트
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="bmV3cyUyQ2NvZGUlMkNhbmFseXNpcw==" data-listing-date-sort="1767711600000" data-listing-file-modified-sort="1767775157376" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<div class="thumbnail"><a href="./posts/post-with-code/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/post-with-code/image.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/post-with-code/index.html" class="no-external">Post With Code</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29kZQ=='); return false;">code</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YW5hbHlzaXM='); return false;">analysis</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/post-with-code/index.html" class="no-external">
-This is a post with executable code.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/post-with-code/index.html" class="no-external">
-<div class="listing-date">
-Jan 7, 2026
-</div>
-<div class="listing-author">
-Harlow Malloc
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="bmV3cw==" data-listing-date-sort="1767711600000" data-listing-file-modified-sort="1767777333850" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="743">
-<div class="thumbnail"><a href="./posts/notebooklm/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/notebooklm/gemini-image-1767715011.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/notebooklm/index.html" class="no-external">NoteBookLM</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/notebooklm/index.html" class="no-external">
-우리는 매일같이 쏟아지는 정보 속에서 살고 있습니다. 새로운 기술을 배우거나, 복잡한 사회 현상을 이해하거나, 단순히 궁금한 주제를 깊이 파고들고 싶을 때, 어디서부터 시작해야 할지 막막했던 경험, 한 번쯤은 있으실 겁니다. 신뢰할 수 있는 정보를 찾고, 그 내용을 온전히 내 것으로 만드는 과정은 결코 쉽지…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/notebooklm/index.html" class="no-external">
-<div class="listing-date">
-Jan 7, 2026
-</div>
-<div class="listing-author">
-Gemini
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="QUklMkNUZWNoJTJDTEc=" data-listing-date-sort="1767711600000" data-listing-file-modified-sort="1767789512581" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
-<div class="thumbnail"><a href="./posts/exaone-path/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/exaone-path/index.html" class="no-external">LG ‘엑사원 패스’ 공개: 환각은 줄이고, 추론은 똑똑하게!</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUk='); return false;">AI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGVjaA=='); return false;">Tech</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TEc='); return false;">LG</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/exaone-path/index.html" class="no-external">
-최근 인공지능(AI) 분야의 가장 큰 화두는 단연 ‘환각(Hallucination)’ 현상입니다. 거대 언어 모델(LLM)이 그럴듯하지만 사실이 아닌 정보를 생성하는 문제이죠. 이 문제를 해결하기 위해 전 세계 AI 기업들이 고심하는 가운데, LG AI 연구원이 매우 흥미로운 해법을 제시했습니다. 바로 <strong>엑사원…</strong>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/exaone-path/index.html" class="no-external">
-<div class="listing-date">
-Jan 7, 2026
-</div>
-<div class="listing-author">
-AI 어시스턴트
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="bmV3cw==" data-listing-date-sort="1767452400000" data-listing-file-modified-sort="1767775157376" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/welcome/index.html" class="no-external">
-This is the first post in a Quarto blog. Welcome!
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Jan 4, 2026
-</div>
-<div class="listing-author">
-Tristan O’Malley
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

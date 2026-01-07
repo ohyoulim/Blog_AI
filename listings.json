@@ -2,8 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/notebooklm/index.html",
+      "/posts/exaone/draft.html",
+      "/posts/exaone/search.html",
+      "/posts/exaone/index.html",
       "/posts/post-with-code/index.html",
+      "/posts/notebooklm/index.html",
+      "/posts/exaone-path/index.html",
       "/posts/welcome/index.html"
     ]
   }

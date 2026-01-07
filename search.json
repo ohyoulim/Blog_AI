@@ -1,31 +1,59 @@
 [
   {
-    "objectID": "posts/notebooklm/index.html",
-    "href": "posts/notebooklm/index.html",
-    "title": "방대한 정보의 홍수 속에서 길을 잃고 헤매본 적 없으신가요?",
+    "objectID": "posts/exaone-path/index.html",
+    "href": "posts/exaone-path/index.html",
+    "title": "LG ‘엑사원 패스’ 공개: 환각은 줄이고, 추론은 똑똑하게!",
     "section": "",
-    "text": "A tablet screen showing a mind map for biology, with nodes for cells, genetics, and evolution, and a learning progress chart."
+    "text": "최근 인공지능(AI) 분야의 가장 큰 화두는 단연 ‘환각(Hallucination)’ 현상입니다. 거대 언어 모델(LLM)이 그럴듯하지만 사실이 아닌 정보를 생성하는 문제이죠. 이 문제를 해결하기 위해 전 세계 AI 기업들이 고심하는 가운데, LG AI 연구원이 매우 흥미로운 해법을 제시했습니다. 바로 엑사원 패스(EXAONE Path)입니다.\n엑사원 패스는 단순히 정보를 생성하는 것을 넘어, AI 스스로 생각하고 판단하며 행동하는 ‘AI 에이전트’를 위한 새로운 모델입니다. 마치 우리가 복잡한 문제를 해결하기 위해 여러 도구를 사용하고 정보를 검증하는 것처럼, AI가 스스로 추론 경로를 설정하고 문제를 해결해 나가는 것이죠.\n\n엑사원 패스는 무엇이 다른가?\n엑사원 패스의 가장 큰 특징은 ‘동적 추론 경로(Dynamic Reasoning Path)’에 있습니다. 사용자의 질문 의도를 파악한 뒤, 실시간으로 추론 계획을 수립하고 필요한 도구를 선택하여 실행합니다. 이 과정에서 얻은 정보를 바탕으로 답변을 생성하기 때문에 환각 현상을 획기적으로 줄일 수 있습니다.\n주요 특징을 몇 가지로 요약하면 다음과 같습니다.\n\n환각 현상 감소: AI가 답변을 내놓기까지의 추론 과정과 근거를 확인할 수 있어 정보의 신뢰도가 매우 높습니다. 내부 데이터뿐만 아니라 웹 검색, 데이터베이스 조회 등 외부 도구를 활용해 사실을 검증합니다.\n멀티모달 능력: 텍스트뿐만 아니라 이미지, 표, 그래프 등 다양한 형태의 데이터를 동시에 이해하고 처리할 수 있습니다. 예를 들어, 차트 이미지를 보여주며 “이 데이터의 인사이트를 요약해 줘”와 같은 복합적인 질문에 답할 수 있습니다.\n뛰어난 도구 사용 능력: 질문의 종류에 따라 계산기, 번역기, 웹 검색 등 가장 적합한 도구를 스스로 선택하고 활용하여 최적의 결과를 도출합니다.\n사용자 맞춤형 AI: 전문 지식이 필요한 영역(예: 법률, 의료, 연구)의 데이터를 학습시키면, 해당 분야에 특화된 전문가 AI 에이전트를 만들 수 있습니다.\n\n\n\n엑사원 패스가 열어갈 미래\n엑사원 패스는 단순히 똑똑한 챗봇을 넘어, 우리의 업무와 일상을 돕는 진정한 ’AI 비서’의 등장을 예고합니다. 복잡한 시장 동향을 분석하여 보고서를 작성하고, 전문적인 코드를 생성하며, 고객의 의도를 파악하여 맞춤형 상품을 추천하는 등 활용 가능성은 무궁무진합니다.\n환각을 줄이고 신뢰를 높인 LG의 엑사원 패스가 앞으로 우리의 삶을 어떻게 변화시킬지, 그 똑똑한 행보를 주목해 봅니다."
   },
   {
-    "objectID": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
-    "href": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
-    "title": "방대한 정보의 홍수 속에서 길을 잃고 헤매본 적 없으신가요?",
-    "section": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?",
-    "text": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?\nFeatured Notebooks는 단순히 정보를 모아놓은 것을 넘어, 사용자가 지식을 효과적으로 탐색하고 활용할 수 있도록 돕는 강력한 기능들을 제공합니다. 그중 가장 주목해야 할 세 가지 핵심은 다음과 같습니다.\n\n전문가가 엄선한 고품질 콘텐츠: 저명한 작가, 연구원, 언론사(The Economist, The Atlantic 등)가 직접 선별한 신뢰도 높은 자료가 미리 준비되어 있습니다. 더 이상 정보의 출처를 의심하며 시간을 낭비할 필요가 없습니다.\n\n\n\n\nA digital document with a golden seal of approval, symbolizing high-quality, expert-curated content. The seal has a stylized ‘E’ for expert.\n\n\n\nAI와 함께하는 능동적인 학습: 궁금한 점을 AI에게 질문하고, 자료에 근거한 답변을 즉시 얻을 수 있습니다. 단순한 정보 전달을 넘어, AI와의 대화를 통해 깊이 있는 탐구가 가능해집니다.\n\n\n\n\nA friendly, approachable robot and a person sitting at a desk, having a conversation with speech bubbles. The person is asking a question, and the robot is providing a helpful answer with a lightbulb icon.\n\n\n\n시간을 절약해주는 스마트한 기능: 복잡한 내용을 시각적으로 정리한 ‘마인드맵’과 핵심만 요약해 들려주는 ’오디오 개요’ 기능으로 방대한 자료도 빠르고 쉽게 이해할 수 있습니다.\n\n\n\n\nA stylized human head in profile. Inside, a glowing mind map connects different ideas, and a small clock icon is ticking, representing saved time."
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
-    "href": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
-    "title": "방대한 정보의 홍수 속에서 길을 잃고 헤매본 적 없으신가요?",
-    "section": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?",
-    "text": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?\n\n1. 신뢰할 수 있는 지식의 보고: 전문가가 큐레이팅한 콘텐츠\n“Featured Notebooks”의 가장 큰 장점은 콘텐츠의 질입니다. 구글은 각 분야의 전문가 및 유수의 기관들과의 파트너십을 통해 과학, 역사, 시사, 예술 등 다양한 주제에 대한 노트북을 제공합니다.\n\n\n\nA digital library interface showing a curated collection of notebooks. The notebooks have cover designs featuring logos of well-known institutions like ‘The Economist’ and ‘The Atlantic’.\n\n\n예시: The Economist가 제공하는 ‘A new era for economics’ 노트북을 통해 복잡한 현대 경제학의 흐름을 심도 있게 공부하거나, The Atlantic의 자료로 ’The new rules of friendship’에 대한 사회적 통찰을 얻을 수 있습니다. 사용자는 이미 검증된 양질의 자료 위에서 탐색을 시작하므로, 정보의 신뢰도를 걱정할 필요 없이 내용 자체에만 집중할 수 있습니다.\n\n\n2. AI 튜터와 함께하는 개인화된 학습 경험\n단순히 자료를 읽는 것에서 그치지 않습니다. “Featured Notebooks”는 사용자가 AI와 상호작용하며 지식을 습득할 수 있는 환경을 제공합니다.\n\n\n\nA close-up of a computer screen showing a chat interface. A user has typed, ‘Can you explain quantum entanglement in simple terms?’ and an AI tutor is replying with a clear explanation and a small citation icon.\n\n\n예시: 과학 탐구 노트북을 보다가 ’양자 얽힘’이라는 개념이 이해되지 않는다면, 채팅창에 바로 “양자 얽힘에 대해 더 쉽게 설명해줘”라고 질문할 수 있습니다. NotebookLM은 제공된 자료를 바탕으로, 출처가 명시된 답변을 생성해 줍니다. 이는 마치 24시간 대기하는 전문 튜터와 함께 공부하는 것과 같은 효과를 줍니다.\n\n\n3. 본질에 집중하게 만드는 시간 효율적 도구들\n방대한 텍스트를 모두 읽지 않아도 핵심을 파악할 수 있도록 돕는 기능들도 탑재되어 있습니다.\n\n\n\nA person looking at a tablet. On the screen, a mind map of a complex topic is displayed on one half, and an audio player with a waveform is on the other half, with headphones connected.\n\n\n예시: 노트북을 열면, 가장 먼저 ’마인드맵’이 주요 테마와 개념들을 시각적으로 보여줍니다. 전체적인 구조를 빠르게 파악한 후, ’오디오 개요’를 통해 핵심 내용을 음성으로 들으며 세부 사항으로 들어갈 준비를 할 수 있습니다. 이 두 가지 기능만으로도 사용자는 자료를 탐색하는 데 드는 시간을 획기적으로 줄이고, 중요한 본질에 더 집중할 수 있습니다."
+    "objectID": "posts/exaone/draft.html",
+    "href": "posts/exaone/draft.html",
+    "title": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다.\n\n\n\n엑사원 패스는 정밀 의료를 위한 혁신적인 AI 모델로, 세 가지 핵심적인 특징을 가지고 있습니다.\n\n’2주’를 ’1분’으로, 경이로운 시간 단축: 기존에 2주 이상 걸리던 유전자 변이 분석 및 진단 시간을 단 1분으로 압축하여 치료의 골든타임을 확보합니다.\n세계 최고 수준의 예측 정확도: 78.4%라는 높은 정확도로 암 관련 유전자 변이를 예측하여, 더 빠르고 정확한 진단을 돕습니다.\n함께 발전하는 AI 생태계: 연구 모델을 허깅페이스에 공개하여 전 세계 연구자들과 함께 기술을 발전시키고 의료 AI 생태계에 기여합니다.\n\n\n\n\n\n\n엑사원 패스는 어떻게 이런 일을 해낼 수 있을까요? 비밀은 ’병리 이미지’와 ’멀티오믹스 데이터’를 함께 분석하는 데 있습니다. ’병리 이미지’가 우리 몸속 세포의 모습을 담은 아주 상세한 지도라면, ’멀티오믹스 데이터’는 그 세포의 모든 활동 정보가 담긴 사용 설명서와 같습니다. 엑사원 패스는 이 두 가지를 동시에 보고, 인간의 눈으로는 찾기 힘든 미세한 암의 신호와 유전자 변이의 연관성을 찾아냅니다.\n\n\n\n암 치료는 시간과의 싸움입니다. 어떤 유전자 변이가 있는지 빨리 알아낼수록 환자에게 가장 잘 맞는 치료법을 신속하게 적용할 수 있습니다. 엑사원 패스는 2주가 걸리던 분석 시간을 1분으로 줄여, 의사가 환자의 ’골든타임’을 놓치지 않고 최적의 치료 계획을 세울 수 있도록 돕습니다.\n\n\n\nLG AI 연구원은 엑사원 패스 모델을 세계 최대의 AI 커뮤니티인 ’허깅페이스’에 공개했습니다. 이는 더 많은 연구자들이 이 기술을 활용하여 다양한 암 종류에 대한 연구를 가속화하고, 전 세계적인 협력을 통해 암 정복이라는 공동의 목표에 더 빨리 다가가기 위함입니다.\n\n\n\n\n엑사원 패스는 AI 기술이 인류의 건강에 얼마나 직접적이고 긍정적인 영향을 미칠 수 있는지를 보여주는 놀라운 사례입니다. 진단 시간을 단축하고 정확도를 높여, ‘정밀 의료’ 시대를 한 걸음 더 가까이 가져오고 있습니다. AI와 함께라면 암과의 싸움에서 인류가 승리할 날도 머지않았습니다.\n\n\n\n\n조선비즈: https://biz.chosun.com/it-science/ict/2024/05/13/2HT4XDSYABG5RO4D5OSM25YECU/\n시사저널e: http://www.sisajournal-e.com/news/articleView.html?idxno=404987\nTHE AI: https://www.newstheai.com/news/articleView.html?idxno=28889\n데일리팝: http://www.dailypop.kr/news/articleView.html?idxno=77241"
   },
   {
-    "objectID": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
-    "href": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
-    "title": "방대한 정보의 홍수 속에서 길을 잃고 헤매본 적 없으신가요?",
-    "section": "마무리: 지식 탐구의 새로운 지평을 열다",
-    "text": "마무리: 지식 탐구의 새로운 지평을 열다\nNotebookLM의 “Featured Notebooks” 기능은 단순한 정보 제공을 넘어, 신뢰할 수 있는 지식에 대한 접근성을 민주화하고, AI와의 상호작용을 통해 학습의 패러다임을 바꾸고 있습니다. 이는 개인이 전문가 수준의 자료를 바탕으로 더 깊이 있는 질문을 던지고, 창의적인 통찰을 얻을 수 있는 새로운 시대를 예고합니다.\n\n\n\nA person standing on a hill, looking out at a bright, futuristic landscape that represents the future of learning and knowledge exploration, with glowing data streams and network graphics.\n\n\n앞으로 이러한 AI 기반 학습 도구는 교육, 연구, 콘텐츠 제작 등 다양한 분야에서 개인의 지적 능력을 증폭시키는 핵심적인 역할을 하게 될 것입니다. 정보의 홍수 속에서 방향을 제시하는 등대를 넘어, 함께 항해하는 든든한 파트너로서 AI가 우리의 지식 탐구 여정을 어떻게 바꾸어 나갈지 기대해 봅니다."
+    "objectID": "posts/exaone/draft.html#도입",
+    "href": "posts/exaone/draft.html#도입",
+    "title": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다."
+  },
+  {
+    "objectID": "posts/exaone/draft.html#핵심-요약",
+    "href": "posts/exaone/draft.html#핵심-요약",
+    "title": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "엑사원 패스는 정밀 의료를 위한 혁신적인 AI 모델로, 세 가지 핵심적인 특징을 가지고 있습니다.\n\n’2주’를 ’1분’으로, 경이로운 시간 단축: 기존에 2주 이상 걸리던 유전자 변이 분석 및 진단 시간을 단 1분으로 압축하여 치료의 골든타임을 확보합니다.\n세계 최고 수준의 예측 정확도: 78.4%라는 높은 정확도로 암 관련 유전자 변이를 예측하여, 더 빠르고 정확한 진단을 돕습니다.\n함께 발전하는 AI 생태계: 연구 모델을 허깅페이스에 공개하여 전 세계 연구자들과 함께 기술을 발전시키고 의료 AI 생태계에 기여합니다."
+  },
+  {
+    "objectID": "posts/exaone/draft.html#상세-설명",
+    "href": "posts/exaone/draft.html#상세-설명",
+    "title": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "엑사원 패스는 어떻게 이런 일을 해낼 수 있을까요? 비밀은 ’병리 이미지’와 ’멀티오믹스 데이터’를 함께 분석하는 데 있습니다. ’병리 이미지’가 우리 몸속 세포의 모습을 담은 아주 상세한 지도라면, ’멀티오믹스 데이터’는 그 세포의 모든 활동 정보가 담긴 사용 설명서와 같습니다. 엑사원 패스는 이 두 가지를 동시에 보고, 인간의 눈으로는 찾기 힘든 미세한 암의 신호와 유전자 변이의 연관성을 찾아냅니다.\n\n\n\n암 치료는 시간과의 싸움입니다. 어떤 유전자 변이가 있는지 빨리 알아낼수록 환자에게 가장 잘 맞는 치료법을 신속하게 적용할 수 있습니다. 엑사원 패스는 2주가 걸리던 분석 시간을 1분으로 줄여, 의사가 환자의 ’골든타임’을 놓치지 않고 최적의 치료 계획을 세울 수 있도록 돕습니다.\n\n\n\nLG AI 연구원은 엑사원 패스 모델을 세계 최대의 AI 커뮤니티인 ’허깅페이스’에 공개했습니다. 이는 더 많은 연구자들이 이 기술을 활용하여 다양한 암 종류에 대한 연구를 가속화하고, 전 세계적인 협력을 통해 암 정복이라는 공동의 목표에 더 빨리 다가가기 위함입니다."
+  },
+  {
+    "objectID": "posts/exaone/draft.html#마무리",
+    "href": "posts/exaone/draft.html#마무리",
+    "title": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "엑사원 패스는 AI 기술이 인류의 건강에 얼마나 직접적이고 긍정적인 영향을 미칠 수 있는지를 보여주는 놀라운 사례입니다. 진단 시간을 단축하고 정확도를 높여, ‘정밀 의료’ 시대를 한 걸음 더 가까이 가져오고 있습니다. AI와 함께라면 암과의 싸움에서 인류가 승리할 날도 머지않았습니다."
+  },
+  {
+    "objectID": "posts/exaone/draft.html#참고-자료",
+    "href": "posts/exaone/draft.html#참고-자료",
+    "title": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "조선비즈: https://biz.chosun.com/it-science/ict/2024/05/13/2HT4XDSYABG5RO4D5OSM25YECU/\n시사저널e: http://www.sisajournal-e.com/news/articleView.html?idxno=404987\nTHE AI: https://www.newstheai.com/news/articleView.html?idxno=28889\n데일리팝: http://www.dailypop.kr/news/articleView.html?idxno=77241"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -39,7 +67,7 @@
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "방대한 정보의 홍수 속에서 길을 잃고 헤매본 적 없으신가요?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "[초안] 엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLG 엑사원 패스(EXAONE Path) 관련 정보\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다\n\n\n\nAI\n\nMedical\n\nLG\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nAI 어시스턴트\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nNoteBookLM\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nGemini\n\n\n\n\n\n\n\n\n\n\n\n\nLG ‘엑사원 패스’ 공개: 환각은 줄이고, 추론은 똑똑하게!\n\n\n\nAI\n\nTech\n\nLG\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nAI 어시스턴트\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -49,10 +77,101 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/exaone/index.html",
+    "href": "posts/exaone/index.html",
+    "title": "엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다."
+  },
+  {
+    "objectID": "posts/exaone/index.html#도입",
+    "href": "posts/exaone/index.html#도입",
+    "title": "엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "",
+    "text": "만약 AI가 단 1분 만에 암 관련 유전자 변이를 예측할 수 있다면 어떨까요? 길고 고통스러웠던 암 진단 과정이 획기적으로 바뀔 수 있지 않을까요? LG AI 연구원이 개발한 ’엑사원 패스(EXAONE Path)’가 바로 그 가능성을 현실로 만들고 있습니다."
+  },
+  {
+    "objectID": "posts/exaone/index.html#핵심-요약",
+    "href": "posts/exaone/index.html#핵심-요약",
+    "title": "엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "핵심 요약",
+    "text": "핵심 요약\n엑사원 패스는 정밀 의료를 위한 혁신적인 AI 모델로, 세 가지 핵심적인 특징을 가지고 있습니다.\n\n’2주’를 ’1분’으로, 경이로운 시간 단축: 기존에 2주 이상 걸리던 유전자 변이 분석 및 진단 시간을 단 1분으로 압축하여 치료의 골든타임을 확보합니다.\n세계 최고 수준의 예측 정확도: 78.4%라는 높은 정확도로 암 관련 유전자 변이를 예측하여, 더 빠르고 정확한 진단을 돕습니다.\n함께 발전하는 AI 생태계: 연구 모델을 허깅페이스에 공개하여 전 세계 연구자들과 함께 기술을 발전시키고 의료 AI 생태계에 기여합니다."
+  },
+  {
+    "objectID": "posts/exaone/index.html#상세-설명",
+    "href": "posts/exaone/index.html#상세-설명",
+    "title": "엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "상세 설명",
+    "text": "상세 설명\n\nAI, 병리 이미지와 유전 정보를 동시에 읽다\n엑사원 패스는 어떻게 이런 일을 해낼 수 있을까요? 비밀은 ’병리 이미지’와 ’멀티오믹스 데이터’를 함께 분석하는 데 있습니다. ’병리 이미지’가 우리 몸속 세포의 모습을 담은 아주 상세한 지도라면, ’멀티오믹스 데이터’는 그 세포의 모든 활동 정보가 담긴 사용 설명서와 같습니다. 엑사원 패스는 이 두 가지를 동시에 보고, 인간의 눈으로는 찾기 힘든 미세한 암의 신호와 유전자 변이의 연관성을 찾아냅니다.\n\n\n\nAI가 병리 이미지와 유전 정보를 동시에 분석하는 모습\n\n\n\n\n’골든타임’을 잡는 1분의 혁신\n암 치료는 시간과의 싸움입니다. 어떤 유전자 변이가 있는지 빨리 알아낼수록 환자에게 가장 잘 맞는 치료법을 신속하게 적용할 수 있습니다. 엑사원 패스는 2주가 걸리던 분석 시간을 1분으로 줄여, 의사가 환자의 ’골든타임’을 놓치지 않고 최적의 치료 계획을 세울 수 있도록 돕습니다.\n\n\n\n의료 환경에서 시간 단축의 중요성을 상징하는 이미지\n\n\n\n\n협력으로 암 정복에 기여하다\nLG AI 연구원은 엑사원 패스 모델을 세계 최대의 AI 커뮤니티인 ’허깅페이스’에 공개했습니다. 이는 더 많은 연구자들이 이 기술을 활용하여 다양한 암 종류에 대한 연구를 가속화하고, 전 세계적인 협력을 통해 암 정복이라는 공동의 목표에 더 빨리 다가가기 위함입니다.\n\n\n\n전 세계적인 AI 연구 협력을 상징하는 이미지"
+  },
+  {
+    "objectID": "posts/exaone/index.html#마무리",
+    "href": "posts/exaone/index.html#마무리",
+    "title": "엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "마무리",
+    "text": "마무리\n엑사원 패스는 AI 기술이 인류의 건강에 얼마나 직접적이고 긍정적인 영향을 미칠 수 있는지를 보여주는 놀라운 사례입니다. 진단 시간을 단축하고 정확도를 높여, ‘정밀 의료’ 시대를 한 걸음 더 가까이 가져오고 있습니다. AI와 함께라면 암과의 싸움에서 인류가 승리할 날도 머지않았습니다."
+  },
+  {
+    "objectID": "posts/exaone/index.html#참고-자료",
+    "href": "posts/exaone/index.html#참고-자료",
+    "title": "엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다",
+    "section": "참고 자료",
+    "text": "참고 자료\n\n조선비즈\n시사저널e\nTHE AI\n데일리팝"
+  },
+  {
+    "objectID": "posts/exaone/search.html",
+    "href": "posts/exaone/search.html",
+    "title": "LG 엑사원 패스(EXAONE Path) 관련 정보",
+    "section": "",
+    "text": "LG AI 연구원에서 개발한 차세대 정밀 의료 AI 모델 ’엑사원 패스(EXAONE Path) 2.0’은 암을 포함한 다양한 유전자 변이 관련 질병의 조기 진단에 특화되어 있습니다. 병리 조직 이미지와 유전자 관련 멀티오믹스 데이터를 함께 학습하여, 눈에 보이지 않는 미세한 변화까지 감지하고 유전자 변이를 정밀하게 예측합니다.\n\n\n\n\n진단 시간 단축: 기존에 2주 이상 소요되던 유전자 검사 시간을 단 1분 이내로 단축하여, 암 환자의 치료 골든타임을 확보하는 데 기여할 수 있습니다.\n높은 정확도: 유전자 변이 예측 정확도를 78.4%까지 높여 세계 최고 수준의 성능을 입증했습니다.\n접근성: 글로벌 개발자 커뮤니티인 ’허깅페이스(Hugging Face)’에 모델을 공개하여, 누구나 연구 및 학술 목적으로 활용하며 관련 기술 생태계를 확장하고 있습니다.\n\n\n\n\n\n조선비즈: https://biz.chosun.com/it-science/ict/2024/05/13/2HT4XDSYABG5RO4D5OSM25YECU/\n시사저널e: http://www.sisajournal-e.com/news/articleView.html?idxno=404987\nTHE AI: https://www.newstheai.com/news/articleView.html?idxno=28889\n데일리팝: http://www.dailypop.kr/news/articleView.html?idxno=77241"
+  },
+  {
+    "objectID": "posts/exaone/search.html#개요",
+    "href": "posts/exaone/search.html#개요",
+    "title": "LG 엑사원 패스(EXAONE Path) 관련 정보",
+    "section": "",
+    "text": "LG AI 연구원에서 개발한 차세대 정밀 의료 AI 모델 ’엑사원 패스(EXAONE Path) 2.0’은 암을 포함한 다양한 유전자 변이 관련 질병의 조기 진단에 특화되어 있습니다. 병리 조직 이미지와 유전자 관련 멀티오믹스 데이터를 함께 학습하여, 눈에 보이지 않는 미세한 변화까지 감지하고 유전자 변이를 정밀하게 예측합니다."
+  },
+  {
+    "objectID": "posts/exaone/search.html#핵심-특징",
+    "href": "posts/exaone/search.html#핵심-특징",
+    "title": "LG 엑사원 패스(EXAONE Path) 관련 정보",
+    "section": "",
+    "text": "진단 시간 단축: 기존에 2주 이상 소요되던 유전자 검사 시간을 단 1분 이내로 단축하여, 암 환자의 치료 골든타임을 확보하는 데 기여할 수 있습니다.\n높은 정확도: 유전자 변이 예측 정확도를 78.4%까지 높여 세계 최고 수준의 성능을 입증했습니다.\n접근성: 글로벌 개발자 커뮤니티인 ’허깅페이스(Hugging Face)’에 모델을 공개하여, 누구나 연구 및 학술 목적으로 활용하며 관련 기술 생태계를 확장하고 있습니다."
+  },
+  {
+    "objectID": "posts/exaone/search.html#참고-자료",
+    "href": "posts/exaone/search.html#참고-자료",
+    "title": "LG 엑사원 패스(EXAONE Path) 관련 정보",
+    "section": "",
+    "text": "조선비즈: https://biz.chosun.com/it-science/ict/2024/05/13/2HT4XDSYABG5RO4D5OSM25YECU/\n시사저널e: http://www.sisajournal-e.com/news/articleView.html?idxno=404987\nTHE AI: https://www.newstheai.com/news/articleView.html?idxno=28889\n데일리팝: http://www.dailypop.kr/news/articleView.html?idxno=77241"
+  },
+  {
+    "objectID": "posts/notebooklm/index.html",
+    "href": "posts/notebooklm/index.html",
+    "title": "NoteBookLM",
+    "section": "",
+    "text": "A tablet screen showing a mind map for biology, with nodes for cells, genetics, and evolution, and a learning progress chart."
+  },
+  {
+    "objectID": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
+    "href": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
+    "title": "NoteBookLM",
+    "section": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?",
+    "text": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?\nFeatured Notebooks는 단순히 정보를 모아놓은 것을 넘어, 사용자가 지식을 효과적으로 탐색하고 활용할 수 있도록 돕는 강력한 기능들을 제공합니다. 그중 가장 주목해야 할 세 가지 핵심은 다음과 같습니다.\n\n전문가가 엄선한 고품질 콘텐츠: 저명한 작가, 연구원, 언론사(The Economist, The Atlantic 등)가 직접 선별한 신뢰도 높은 자료가 미리 준비되어 있습니다. 더 이상 정보의 출처를 의심하며 시간을 낭비할 필요가 없습니다.\n\n\n\n\nA digital document with a golden seal of approval, symbolizing high-quality, expert-curated content. The seal has a stylized ‘E’ for expert.\n\n\n\nAI와 함께하는 능동적인 학습: 궁금한 점을 AI에게 질문하고, 자료에 근거한 답변을 즉시 얻을 수 있습니다. 단순한 정보 전달을 넘어, AI와의 대화를 통해 깊이 있는 탐구가 가능해집니다.\n\n\n\n\nA friendly, approachable robot and a person sitting at a desk, having a conversation with speech bubbles. The person is asking a question, and the robot is providing a helpful answer with a lightbulb icon.\n\n\n\n시간을 절약해주는 스마트한 기능: 복잡한 내용을 시각적으로 정리한 ‘마인드맵’과 핵심만 요약해 들려주는 ’오디오 개요’ 기능으로 방대한 자료도 빠르고 쉽게 이해할 수 있습니다.\n\n\n\n\nA stylized human head in profile. Inside, a glowing mind map connects different ideas, and a small clock icon is ticking, representing saved time."
+  },
+  {
+    "objectID": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
+    "href": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
+    "title": "NoteBookLM",
+    "section": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?",
+    "text": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?\n\n1. 신뢰할 수 있는 지식의 보고: 전문가가 큐레이팅한 콘텐츠\n“Featured Notebooks”의 가장 큰 장점은 콘텐츠의 질입니다. 구글은 각 분야의 전문가 및 유수의 기관들과의 파트너십을 통해 과학, 역사, 시사, 예술 등 다양한 주제에 대한 노트북을 제공합니다.\n\n\n\nA digital library interface showing a curated collection of notebooks. The notebooks have cover designs featuring logos of well-known institutions like ‘The Economist’ and ‘The Atlantic’.\n\n\n예시: The Economist가 제공하는 ‘A new era for economics’ 노트북을 통해 복잡한 현대 경제학의 흐름을 심도 있게 공부하거나, The Atlantic의 자료로 ’The new rules of friendship’에 대한 사회적 통찰을 얻을 수 있습니다. 사용자는 이미 검증된 양질의 자료 위에서 탐색을 시작하므로, 정보의 신뢰도를 걱정할 필요 없이 내용 자체에만 집중할 수 있습니다.\n\n\n2. AI 튜터와 함께하는 개인화된 학습 경험\n단순히 자료를 읽는 것에서 그치지 않습니다. “Featured Notebooks”는 사용자가 AI와 상호작용하며 지식을 습득할 수 있는 환경을 제공합니다.\n\n\n\nA close-up of a computer screen showing a chat interface. A user has typed, ‘Can you explain quantum entanglement in simple terms?’ and an AI tutor is replying with a clear explanation and a small citation icon.\n\n\n예시: 과학 탐구 노트북을 보다가 ’양자 얽힘’이라는 개념이 이해되지 않는다면, 채팅창에 바로 “양자 얽힘에 대해 더 쉽게 설명해줘”라고 질문할 수 있습니다. NotebookLM은 제공된 자료를 바탕으로, 출처가 명시된 답변을 생성해 줍니다. 이는 마치 24시간 대기하는 전문 튜터와 함께 공부하는 것과 같은 효과를 줍니다.\n\n\n3. 본질에 집중하게 만드는 시간 효율적 도구들\n방대한 텍스트를 모두 읽지 않아도 핵심을 파악할 수 있도록 돕는 기능들도 탑재되어 있습니다.\n\n\n\nA person looking at a tablet. On the screen, a mind map of a complex topic is displayed on one half, and an audio player with a waveform is on the other half, with headphones connected.\n\n\n예시: 노트북을 열면, 가장 먼저 ’마인드맵’이 주요 테마와 개념들을 시각적으로 보여줍니다. 전체적인 구조를 빠르게 파악한 후, ’오디오 개요’를 통해 핵심 내용을 음성으로 들으며 세부 사항으로 들어갈 준비를 할 수 있습니다. 이 두 가지 기능만으로도 사용자는 자료를 탐색하는 데 드는 시간을 획기적으로 줄이고, 중요한 본질에 더 집중할 수 있습니다."
+  },
+  {
+    "objectID": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
+    "href": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
+    "title": "NoteBookLM",
+    "section": "마무리: 지식 탐구의 새로운 지평을 열다",
+    "text": "마무리: 지식 탐구의 새로운 지평을 열다\nNotebookLM의 “Featured Notebooks” 기능은 단순한 정보 제공을 넘어, 신뢰할 수 있는 지식에 대한 접근성을 민주화하고, AI와의 상호작용을 통해 학습의 패러다임을 바꾸고 있습니다. 이는 개인이 전문가 수준의 자료를 바탕으로 더 깊이 있는 질문을 던지고, 창의적인 통찰을 얻을 수 있는 새로운 시대를 예고합니다.\n\n\n\nA person standing on a hill, looking out at a bright, futuristic landscape that represents the future of learning and knowledge exploration, with glowing data streams and network graphics.\n\n\n앞으로 이러한 AI 기반 학습 도구는 교육, 연구, 콘텐츠 제작 등 다양한 분야에서 개인의 지적 능력을 증폭시키는 핵심적인 역할을 하게 될 것입니다. 정보의 홍수 속에서 방향을 제시하는 등대를 넘어, 함께 항해하는 든든한 파트너로서 AI가 우리의 지식 탐구 여정을 어떻게 바꾸어 나갈지 기대해 봅니다."
   }
 ]
