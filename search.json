@@ -7,88 +7,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/notebooklm/index.html",
-    "href": "posts/notebooklm/index.html",
-    "title": "NoteBookLM",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "A tablet screen showing a mind map for biology, with nodes for cells, genetics, and evolution, and a learning progress chart."
-  },
-  {
-    "objectID": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
-    "href": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
-    "title": "NoteBookLM",
-    "section": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?",
-    "text": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?\nFeatured Notebooks는 단순히 정보를 모아놓은 것을 넘어, 사용자가 지식을 효과적으로 탐색하고 활용할 수 있도록 돕는 강력한 기능들을 제공합니다. 그중 가장 주목해야 할 세 가지 핵심은 다음과 같습니다.\n\n전문가가 엄선한 고품질 콘텐츠: 저명한 작가, 연구원, 언론사(The Economist, The Atlantic 등)가 직접 선별한 신뢰도 높은 자료가 미리 준비되어 있습니다. 더 이상 정보의 출처를 의심하며 시간을 낭비할 필요가 없습니다.\n\n\n\n\nA digital document with a golden seal of approval, symbolizing high-quality, expert-curated content. The seal has a stylized ‘E’ for expert.\n\n\n\nAI와 함께하는 능동적인 학습: 궁금한 점을 AI에게 질문하고, 자료에 근거한 답변을 즉시 얻을 수 있습니다. 단순한 정보 전달을 넘어, AI와의 대화를 통해 깊이 있는 탐구가 가능해집니다.\n\n\n\n\nA friendly, approachable robot and a person sitting at a desk, having a conversation with speech bubbles. The person is asking a question, and the robot is providing a helpful answer with a lightbulb icon.\n\n\n\n시간을 절약해주는 스마트한 기능: 복잡한 내용을 시각적으로 정리한 ‘마인드맵’과 핵심만 요약해 들려주는 ’오디오 개요’ 기능으로 방대한 자료도 빠르고 쉽게 이해할 수 있습니다.\n\n\n\n\nA stylized human head in profile. Inside, a glowing mind map connects different ideas, and a small clock icon is ticking, representing saved time."
-  },
-  {
-    "objectID": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
-    "href": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
-    "title": "NoteBookLM",
-    "section": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?",
-    "text": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?\n\n1. 신뢰할 수 있는 지식의 보고: 전문가가 큐레이팅한 콘텐츠\n“Featured Notebooks”의 가장 큰 장점은 콘텐츠의 질입니다. 구글은 각 분야의 전문가 및 유수의 기관들과의 파트너십을 통해 과학, 역사, 시사, 예술 등 다양한 주제에 대한 노트북을 제공합니다.\n\n\n\nA digital library interface showing a curated collection of notebooks. The notebooks have cover designs featuring logos of well-known institutions like ‘The Economist’ and ‘The Atlantic’.\n\n\n예시: The Economist가 제공하는 ‘A new era for economics’ 노트북을 통해 복잡한 현대 경제학의 흐름을 심도 있게 공부하거나, The Atlantic의 자료로 ’The new rules of friendship’에 대한 사회적 통찰을 얻을 수 있습니다. 사용자는 이미 검증된 양질의 자료 위에서 탐색을 시작하므로, 정보의 신뢰도를 걱정할 필요 없이 내용 자체에만 집중할 수 있습니다.\n\n\n2. AI 튜터와 함께하는 개인화된 학습 경험\n단순히 자료를 읽는 것에서 그치지 않습니다. “Featured Notebooks”는 사용자가 AI와 상호작용하며 지식을 습득할 수 있는 환경을 제공합니다.\n\n\n\nA close-up of a computer screen showing a chat interface. A user has typed, ‘Can you explain quantum entanglement in simple terms?’ and an AI tutor is replying with a clear explanation and a small citation icon.\n\n\n예시: 과학 탐구 노트북을 보다가 ’양자 얽힘’이라는 개념이 이해되지 않는다면, 채팅창에 바로 “양자 얽힘에 대해 더 쉽게 설명해줘”라고 질문할 수 있습니다. NotebookLM은 제공된 자료를 바탕으로, 출처가 명시된 답변을 생성해 줍니다. 이는 마치 24시간 대기하는 전문 튜터와 함께 공부하는 것과 같은 효과를 줍니다.\n\n\n3. 본질에 집중하게 만드는 시간 효율적 도구들\n방대한 텍스트를 모두 읽지 않아도 핵심을 파악할 수 있도록 돕는 기능들도 탑재되어 있습니다.\n\n\n\nA person looking at a tablet. On the screen, a mind map of a complex topic is displayed on one half, and an audio player with a waveform is on the other half, with headphones connected.\n\n\n예시: 노트북을 열면, 가장 먼저 ’마인드맵’이 주요 테마와 개념들을 시각적으로 보여줍니다. 전체적인 구조를 빠르게 파악한 후, ’오디오 개요’를 통해 핵심 내용을 음성으로 들으며 세부 사항으로 들어갈 준비를 할 수 있습니다. 이 두 가지 기능만으로도 사용자는 자료를 탐색하는 데 드는 시간을 획기적으로 줄이고, 중요한 본질에 더 집중할 수 있습니다."
-  },
-  {
-    "objectID": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
-    "href": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
-    "title": "NoteBookLM",
-    "section": "마무리: 지식 탐구의 새로운 지평을 열다",
-    "text": "마무리: 지식 탐구의 새로운 지평을 열다\nNotebookLM의 “Featured Notebooks” 기능은 단순한 정보 제공을 넘어, 신뢰할 수 있는 지식에 대한 접근성을 민주화하고, AI와의 상호작용을 통해 학습의 패러다임을 바꾸고 있습니다. 이는 개인이 전문가 수준의 자료를 바탕으로 더 깊이 있는 질문을 던지고, 창의적인 통찰을 얻을 수 있는 새로운 시대를 예고합니다.\n\n\n\nA person standing on a hill, looking out at a bright, futuristic landscape that represents the future of learning and knowledge exploration, with glowing data streams and network graphics.\n\n\n앞으로 이러한 AI 기반 학습 도구는 교육, 연구, 콘텐츠 제작 등 다양한 분야에서 개인의 지적 능력을 증폭시키는 핵심적인 역할을 하게 될 것입니다. 정보의 홍수 속에서 방향을 제시하는 등대를 넘어, 함께 항해하는 든든한 파트너로서 AI가 우리의 지식 탐구 여정을 어떻게 바꾸어 나갈지 기대해 봅니다."
-  },
-  {
-    "objectID": "posts/claudeai/index.html",
-    "href": "posts/claudeai/index.html",
-    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
-    "section": "",
-    "text": "인공지능의 발전은 어디까지 왔을까요? 단순한 질문 응답을 넘어, 이제는 스스로 컴퓨터를 조작하고 복잡한 문제를 해결하는 AI의 등장을 상상해 보셨습니까? Anthropic의 Claude AI는 이러한 미래를 현실로 만들고 있습니다. 과연 Claude AI가 우리의 삶과 업무 환경을 어떻게 변화시킬지 함께 살펴보겠습니다.\n\n\n\n미래 지능형 에이전트 개념도"
-  },
-  {
-    "objectID": "posts/claudeai/index.html#도입",
-    "href": "posts/claudeai/index.html#도입",
-    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
-    "section": "",
-    "text": "인공지능의 발전은 어디까지 왔을까요? 단순한 질문 응답을 넘어, 이제는 스스로 컴퓨터를 조작하고 복잡한 문제를 해결하는 AI의 등장을 상상해 보셨습니까? Anthropic의 Claude AI는 이러한 미래를 현실로 만들고 있습니다. 과연 Claude AI가 우리의 삶과 업무 환경을 어떻게 변화시킬지 함께 살펴보겠습니다.\n\n\n\n미래 지능형 에이전트 개념도"
-  },
-  {
-    "objectID": "posts/claudeai/index.html#핵심-요약",
-    "href": "posts/claudeai/index.html#핵심-요약",
-    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
-    "section": "핵심 요약",
-    "text": "핵심 요약\nAnthropic의 Claude AI는 최신 Claude 4.5 모델 시리즈를 통해 혁신적인 성능을 선보이고 있습니다. 이 시리즈는 Opus, Sonnet, Haiku 세 가지 모델로 구성되어 다양한 사용 사례에 최적화된 지능과 속도를 제공합니다. 가장 주목할 만한 기능은 AI가 인간처럼 컴퓨터를 직접 조작하는 에이전트 기능으로, 이는 작업 자동화의 새로운 지평을 열고 있습니다. 또한, 고급 추론 능력, 긴 컨텍스트 처리, 멀티모달 지원, 그리고 Claude Code와 Artifacts 같은 강력한 개발자 도구를 통해 복잡한 문제 해결과 개발 생산성 향상에 크게 기여하고 있습니다."
-  },
-  {
-    "objectID": "posts/claudeai/index.html#상세-설명",
-    "href": "posts/claudeai/index.html#상세-설명",
-    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
-    "section": "상세 설명",
-    "text": "상세 설명\n\n1. Claude 4.5 모델 시리즈: 지능과 속도의 스펙트럼\nClaude 4.5 시리즈는 사용자의 필요에 맞춰 선택할 수 있는 세 가지 강력한 모델을 제공합니다. * Opus 4.5는 시리즈 중 가장 지능적인 모델로, 박사 학위 수준의 추론, 복잡한 데이터 분석, 창의적인 콘텐츠 제작 등 최고 수준의 지적 능력이 요구되는 작업에 탁월합니다. 연구 개발, 전략 기획 등 핵심적인 의사 결정 과정에 강력한 조력자가 될 수 있습니다. * Sonnet 4.5는 뛰어난 지능과 빠른 속도, 합리적인 비용 효율성을 자랑하며, 대부분의 기업 업무 환경에 이상적인 선택입니다. 데이터 시각화, 코드 디버깅, 고객 문의 자동 응대, 시장 분석 등 광범위한 분야에서 활용될 수 있습니다. * Haiku 4.5는 가장 빠른 응답 속도를 가진 모델로, 실시간 채팅 상담, 신속한 정보 검색, IoT 디바이스 제어 등 즉각적인 상호작용이 필수적인 환경에 최적화되어 있습니다. 빠르고 정확한 응답으로 사용자 경험을 극대화합니다.\n\n\n\nClaude 4.5 모델 시리즈 (Opus, Sonnet, Haiku)\n\n\n\n\n2. 에이전트 기능: AI, 이제 스스로 컴퓨터를 다루다\nClaude AI의 에이전트 기능은 단순히 텍스트를 생성하는 것을 넘어, 컴퓨터 환경에서 실제 작업을 수행할 수 있는 능력을 의미합니다. AI가 마치 사람처럼 모니터 화면을 인식하고, 마우스를 이동시켜 클릭하며, 가상 키보드로 텍스트를 입력하는 등의 동작을 통해 다양한 애플리케이션과 상호작용합니다.\n구체적인 예시: * 소프트웨어 개발: 개발자가 코드를 작성하면 Claude AI가 직접 개발 환경에서 코드를 실행하여 테스트하고, 버그를 찾아 수정 제안까지 할 수 있습니다. * 데이터 분석 및 보고서 작성: 복잡한 스프레드시트 프로그램을 열어 데이터를 분석하고, 필요한 정보를 추출하여 그래프를 생성한 뒤, 이를 바탕으로 보고서 초안을 자동으로 작성합니다. * 온라인 리서치: 특정 주제에 대한 정보를 웹에서 직접 검색하고, 여러 웹페이지를 탐색하여 필요한 데이터를 수집한 후 요약 정리합니다.\n이러한 에이전트 기능은 반복적이고 시간 소모적인 작업을 AI에게 맡김으로써 인간은 더욱 창의적이고 전략적인 업무에 집중할 수 있도록 돕습니다.\n\n\n\nAI 에이전트의 컴퓨터 조작\n\n\n\n\n3. 고급 추론 및 개발자 도구: 문제 해결의 새로운 지평\nClaude AI는 뛰어난 추론 능력과 방대한 정보 처리 능력을 바탕으로 복잡한 문제 해결을 위한 강력한 도구를 제공합니다.\n\n긴 컨텍스트 처리: 최대 200,000 토큰에 달하는 컨텍스트 윈도우는 책 한 권 분량의 텍스트를 한 번에 이해하고 처리할 수 있게 합니다. 이는 법률 문서 검토, 방대한 연구 자료 요약, 장기 프로젝트 계획 수립 등 고도의 집중력과 종합적인 이해가 필요한 작업에 혁신적인 변화를 가져옵니다.\n멀티모달 지원: Claude AI는 이미지, 차트, 다이어그램 등 시각 정보를 분석하여 텍스트 정보와 결합한 복합적인 추론을 수행합니다. 예를 들어, 복잡한 설계도를 보고 문제점을 파악하거나, 의료 이미지를 분석하여 보고서 초안을 작성하는 데 활용될 수 있습니다. \nClaude Code 및 Artifacts: 개발자를 위한 전용 도구인 Claude Code는 VS Code, JetBrains와 같은 통합 개발 환경(IDE)에 내장되어, 개발 과정에서 AI의 도움을 받을 수 있습니다. Artifacts 기능은 AI가 생성한 코드나 디자인 결과물을 독립적인 작업 공간에서 실시간으로 확인하고 상호 작용하며 수정할 수 있게 하여 개발 생산성을 극대화합니다."
-  },
-  {
-    "objectID": "posts/claudeai/index.html#마무리",
-    "href": "posts/claudeai/index.html#마무리",
-    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
-    "section": "마무리",
-    "text": "마무리\nAnthropic의 Claude AI는 단순한 언어 모델을 넘어, 스스로 사고하고 행동하며 복잡한 컴퓨터 작업을 수행하는 지능형 에이전트의 시대를 열고 있습니다. Claude 4.5 시리즈의 다양성, 에이전트 기능의 혁신성, 그리고 고급 추론 능력과 개발자 도구의 결합은 우리의 업무 방식과 일상에 깊은 변화를 가져올 것입니다. 앞으로 Claude AI가 가져올 생산성 향상과 새로운 창조적 가능성에 주목해야 할 때입니다."
-  },
-  {
-    "objectID": "posts/claudeai/index.html#참고-자료",
-    "href": "posts/claudeai/index.html#참고-자료",
-    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
-    "section": "참고 자료",
-    "text": "참고 자료\n\nAnthropic 공식 블로그: https://www.anthropic.com/news/claude-3-5-sonnet\nIBM - Claude 란 무엇입니까?: https://www.ibm.com/kr-ko/topics/claude-ai\n클로드 AI 한국 사용자 모임: https://claudeai.kr/\n울트라리티스(Ultralytics) - Claude 3.5 Sonnet: https://ultralytics.com/ko/news/anthropic-launches-claude-3-5-sonnet-a-faster-more-intelligent-ai-model"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Youlim’s Blog",
-    "section": "",
-    "text": "Claude AI: 미래를 여는 지능형 에이전트의 시대\n\n\n\nAI\n\nClaude\n\nAnthropic\n\nLLM\n\n\n\nAnthropic의 Claude AI는 최신 Claude 4.5 시리즈를 통해 혁신적인 성능과 에이전트 기능을 선보이며, 인공지능이 컴퓨터를 직접 조작하는 새로운 시대를 열고 있습니다.\n\n\n\n\n\nJan 8, 2026\n\n\nGemini AI Agent\n\n\n\n\n\n\n\n\n\n\n\n\n엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다\n\n\n\nAI\n\nMedical\n\nLG\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nAI 어시스턴트\n\n\n\n\n\n\n\n\n\n\n\n\nNoteBookLM\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nGemini\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "text": "This is a post with executable code."
   },
   {
     "objectID": "posts/exaone/index.html",
@@ -133,10 +56,122 @@
     "text": "참고 자료\n\n조선비즈\n시사저널e\nTHE AI\n데일리팝"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Youlim’s Blog",
+    "section": "",
+    "text": "Claude AI: 미래를 여는 지능형 에이전트의 시대\n\n\n\nAI\n\nClaude\n\nAnthropic\n\nLLM\n\n\n\nAnthropic의 Claude AI는 최신 Claude 4.5 시리즈를 통해 혁신적인 성능과 에이전트 기능을 선보이며, 인공지능이 컴퓨터를 직접 조작하는 새로운 시대를 열고 있습니다.\n\n\n\n\n\nJan 8, 2026\n\n\nGemini AI Agent\n\n\n\n\n\n\n\n\n\n\n\n\n코딩, 이제 ’분위기’로 말하세요: vibecoding의 모든 것\n\n\n\ntech\n\ndevelopment\n\nlifestyle\n\n\n\n개발자의 감성과 환경을 최적화하여 창의성과 생산성을 극대화하는 새로운 트렌드, ’vibecoding’에 대해 알아봅니다.\n\n\n\n\n\nJan 8, 2026\n\n\nAI Writer\n\n\n\n\n\n\n\n\n\n\n\n\n엑사원 패스: AI, 1분 만에 암 유전자 변이를 예측하다\n\n\n\nAI\n\nMedical\n\nLG\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nAI 어시스턴트\n\n\n\n\n\n\n\n\n\n\n\n\nNoteBookLM\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nGemini\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/claudeai/index.html",
+    "href": "posts/claudeai/index.html",
+    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
+    "section": "",
+    "text": "인공지능의 발전은 어디까지 왔을까요? 단순한 질문 응답을 넘어, 이제는 스스로 컴퓨터를 조작하고 복잡한 문제를 해결하는 AI의 등장을 상상해 보셨습니까? Anthropic의 Claude AI는 이러한 미래를 현실로 만들고 있습니다. 과연 Claude AI가 우리의 삶과 업무 환경을 어떻게 변화시킬지 함께 살펴보겠습니다.\n\n\n\n미래 지능형 에이전트 개념도"
+  },
+  {
+    "objectID": "posts/claudeai/index.html#도입",
+    "href": "posts/claudeai/index.html#도입",
+    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
+    "section": "",
+    "text": "인공지능의 발전은 어디까지 왔을까요? 단순한 질문 응답을 넘어, 이제는 스스로 컴퓨터를 조작하고 복잡한 문제를 해결하는 AI의 등장을 상상해 보셨습니까? Anthropic의 Claude AI는 이러한 미래를 현실로 만들고 있습니다. 과연 Claude AI가 우리의 삶과 업무 환경을 어떻게 변화시킬지 함께 살펴보겠습니다.\n\n\n\n미래 지능형 에이전트 개념도"
+  },
+  {
+    "objectID": "posts/claudeai/index.html#핵심-요약",
+    "href": "posts/claudeai/index.html#핵심-요약",
+    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
+    "section": "핵심 요약",
+    "text": "핵심 요약\nAnthropic의 Claude AI는 최신 Claude 4.5 모델 시리즈를 통해 혁신적인 성능을 선보이고 있습니다. 이 시리즈는 Opus, Sonnet, Haiku 세 가지 모델로 구성되어 다양한 사용 사례에 최적화된 지능과 속도를 제공합니다. 가장 주목할 만한 기능은 AI가 인간처럼 컴퓨터를 직접 조작하는 에이전트 기능으로, 이는 작업 자동화의 새로운 지평을 열고 있습니다. 또한, 고급 추론 능력, 긴 컨텍스트 처리, 멀티모달 지원, 그리고 Claude Code와 Artifacts 같은 강력한 개발자 도구를 통해 복잡한 문제 해결과 개발 생산성 향상에 크게 기여하고 있습니다."
+  },
+  {
+    "objectID": "posts/claudeai/index.html#상세-설명",
+    "href": "posts/claudeai/index.html#상세-설명",
+    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
+    "section": "상세 설명",
+    "text": "상세 설명\n\n1. Claude 4.5 모델 시리즈: 지능과 속도의 스펙트럼\nClaude 4.5 시리즈는 사용자의 필요에 맞춰 선택할 수 있는 세 가지 강력한 모델을 제공합니다. * Opus 4.5는 시리즈 중 가장 지능적인 모델로, 박사 학위 수준의 추론, 복잡한 데이터 분석, 창의적인 콘텐츠 제작 등 최고 수준의 지적 능력이 요구되는 작업에 탁월합니다. 연구 개발, 전략 기획 등 핵심적인 의사 결정 과정에 강력한 조력자가 될 수 있습니다. * Sonnet 4.5는 뛰어난 지능과 빠른 속도, 합리적인 비용 효율성을 자랑하며, 대부분의 기업 업무 환경에 이상적인 선택입니다. 데이터 시각화, 코드 디버깅, 고객 문의 자동 응대, 시장 분석 등 광범위한 분야에서 활용될 수 있습니다. * Haiku 4.5는 가장 빠른 응답 속도를 가진 모델로, 실시간 채팅 상담, 신속한 정보 검색, IoT 디바이스 제어 등 즉각적인 상호작용이 필수적인 환경에 최적화되어 있습니다. 빠르고 정확한 응답으로 사용자 경험을 극대화합니다.\n\n\n\nClaude 4.5 모델 시리즈 (Opus, Sonnet, Haiku)\n\n\n\n\n2. 에이전트 기능: AI, 이제 스스로 컴퓨터를 다루다\nClaude AI의 에이전트 기능은 단순히 텍스트를 생성하는 것을 넘어, 컴퓨터 환경에서 실제 작업을 수행할 수 있는 능력을 의미합니다. AI가 마치 사람처럼 모니터 화면을 인식하고, 마우스를 이동시켜 클릭하며, 가상 키보드로 텍스트를 입력하는 등의 동작을 통해 다양한 애플리케이션과 상호작용합니다.\n구체적인 예시: * 소프트웨어 개발: 개발자가 코드를 작성하면 Claude AI가 직접 개발 환경에서 코드를 실행하여 테스트하고, 버그를 찾아 수정 제안까지 할 수 있습니다. * 데이터 분석 및 보고서 작성: 복잡한 스프레드시트 프로그램을 열어 데이터를 분석하고, 필요한 정보를 추출하여 그래프를 생성한 뒤, 이를 바탕으로 보고서 초안을 자동으로 작성합니다. * 온라인 리서치: 특정 주제에 대한 정보를 웹에서 직접 검색하고, 여러 웹페이지를 탐색하여 필요한 데이터를 수집한 후 요약 정리합니다.\n이러한 에이전트 기능은 반복적이고 시간 소모적인 작업을 AI에게 맡김으로써 인간은 더욱 창의적이고 전략적인 업무에 집중할 수 있도록 돕습니다.\n\n\n\nAI 에이전트의 컴퓨터 조작\n\n\n\n\n3. 고급 추론 및 개발자 도구: 문제 해결의 새로운 지평\nClaude AI는 뛰어난 추론 능력과 방대한 정보 처리 능력을 바탕으로 복잡한 문제 해결을 위한 강력한 도구를 제공합니다.\n\n긴 컨텍스트 처리: 최대 200,000 토큰에 달하는 컨텍스트 윈도우는 책 한 권 분량의 텍스트를 한 번에 이해하고 처리할 수 있게 합니다. 이는 법률 문서 검토, 방대한 연구 자료 요약, 장기 프로젝트 계획 수립 등 고도의 집중력과 종합적인 이해가 필요한 작업에 혁신적인 변화를 가져옵니다.\n멀티모달 지원: Claude AI는 이미지, 차트, 다이어그램 등 시각 정보를 분석하여 텍스트 정보와 결합한 복합적인 추론을 수행합니다. 예를 들어, 복잡한 설계도를 보고 문제점을 파악하거나, 의료 이미지를 분석하여 보고서 초안을 작성하는 데 활용될 수 있습니다. \nClaude Code 및 Artifacts: 개발자를 위한 전용 도구인 Claude Code는 VS Code, JetBrains와 같은 통합 개발 환경(IDE)에 내장되어, 개발 과정에서 AI의 도움을 받을 수 있습니다. Artifacts 기능은 AI가 생성한 코드나 디자인 결과물을 독립적인 작업 공간에서 실시간으로 확인하고 상호 작용하며 수정할 수 있게 하여 개발 생산성을 극대화합니다."
+  },
+  {
+    "objectID": "posts/claudeai/index.html#마무리",
+    "href": "posts/claudeai/index.html#마무리",
+    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
+    "section": "마무리",
+    "text": "마무리\nAnthropic의 Claude AI는 단순한 언어 모델을 넘어, 스스로 사고하고 행동하며 복잡한 컴퓨터 작업을 수행하는 지능형 에이전트의 시대를 열고 있습니다. Claude 4.5 시리즈의 다양성, 에이전트 기능의 혁신성, 그리고 고급 추론 능력과 개발자 도구의 결합은 우리의 업무 방식과 일상에 깊은 변화를 가져올 것입니다. 앞으로 Claude AI가 가져올 생산성 향상과 새로운 창조적 가능성에 주목해야 할 때입니다."
+  },
+  {
+    "objectID": "posts/claudeai/index.html#참고-자료",
+    "href": "posts/claudeai/index.html#참고-자료",
+    "title": "Claude AI: 미래를 여는 지능형 에이전트의 시대",
+    "section": "참고 자료",
+    "text": "참고 자료\n\nAnthropic 공식 블로그: https://www.anthropic.com/news/claude-3-5-sonnet\nIBM - Claude 란 무엇입니까?: https://www.ibm.com/kr-ko/topics/claude-ai\n클로드 AI 한국 사용자 모임: https://claudeai.kr/\n울트라리티스(Ultralytics) - Claude 3.5 Sonnet: https://ultralytics.com/ko/news/anthropic-launches-claude-3-5-sonnet-a-faster-more-intelligent-ai-model"
+  },
+  {
+    "objectID": "posts/notebooklm/index.html",
+    "href": "posts/notebooklm/index.html",
+    "title": "NoteBookLM",
+    "section": "",
+    "text": "A tablet screen showing a mind map for biology, with nodes for cells, genetics, and evolution, and a learning progress chart."
+  },
+  {
+    "objectID": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
+    "href": "posts/notebooklm/index.html#핵심-요약-featured-notebooks-무엇이-특별할까요",
+    "title": "NoteBookLM",
+    "section": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?",
+    "text": "핵심 요약: Featured Notebooks, 무엇이 특별할까요?\nFeatured Notebooks는 단순히 정보를 모아놓은 것을 넘어, 사용자가 지식을 효과적으로 탐색하고 활용할 수 있도록 돕는 강력한 기능들을 제공합니다. 그중 가장 주목해야 할 세 가지 핵심은 다음과 같습니다.\n\n전문가가 엄선한 고품질 콘텐츠: 저명한 작가, 연구원, 언론사(The Economist, The Atlantic 등)가 직접 선별한 신뢰도 높은 자료가 미리 준비되어 있습니다. 더 이상 정보의 출처를 의심하며 시간을 낭비할 필요가 없습니다.\n\n\n\n\nA digital document with a golden seal of approval, symbolizing high-quality, expert-curated content. The seal has a stylized ‘E’ for expert.\n\n\n\nAI와 함께하는 능동적인 학습: 궁금한 점을 AI에게 질문하고, 자료에 근거한 답변을 즉시 얻을 수 있습니다. 단순한 정보 전달을 넘어, AI와의 대화를 통해 깊이 있는 탐구가 가능해집니다.\n\n\n\n\nA friendly, approachable robot and a person sitting at a desk, having a conversation with speech bubbles. The person is asking a question, and the robot is providing a helpful answer with a lightbulb icon.\n\n\n\n시간을 절약해주는 스마트한 기능: 복잡한 내용을 시각적으로 정리한 ‘마인드맵’과 핵심만 요약해 들려주는 ’오디오 개요’ 기능으로 방대한 자료도 빠르고 쉽게 이해할 수 있습니다.\n\n\n\n\nA stylized human head in profile. Inside, a glowing mind map connects different ideas, and a small clock icon is ticking, representing saved time."
+  },
+  {
+    "objectID": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
+    "href": "posts/notebooklm/index.html#상세-설명-featured-notebooks-어떻게-활용할-수-있을까요",
+    "title": "NoteBookLM",
+    "section": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?",
+    "text": "상세 설명: Featured Notebooks, 어떻게 활용할 수 있을까요?\n\n1. 신뢰할 수 있는 지식의 보고: 전문가가 큐레이팅한 콘텐츠\n“Featured Notebooks”의 가장 큰 장점은 콘텐츠의 질입니다. 구글은 각 분야의 전문가 및 유수의 기관들과의 파트너십을 통해 과학, 역사, 시사, 예술 등 다양한 주제에 대한 노트북을 제공합니다.\n\n\n\nA digital library interface showing a curated collection of notebooks. The notebooks have cover designs featuring logos of well-known institutions like ‘The Economist’ and ‘The Atlantic’.\n\n\n예시: The Economist가 제공하는 ‘A new era for economics’ 노트북을 통해 복잡한 현대 경제학의 흐름을 심도 있게 공부하거나, The Atlantic의 자료로 ’The new rules of friendship’에 대한 사회적 통찰을 얻을 수 있습니다. 사용자는 이미 검증된 양질의 자료 위에서 탐색을 시작하므로, 정보의 신뢰도를 걱정할 필요 없이 내용 자체에만 집중할 수 있습니다.\n\n\n2. AI 튜터와 함께하는 개인화된 학습 경험\n단순히 자료를 읽는 것에서 그치지 않습니다. “Featured Notebooks”는 사용자가 AI와 상호작용하며 지식을 습득할 수 있는 환경을 제공합니다.\n\n\n\nA close-up of a computer screen showing a chat interface. A user has typed, ‘Can you explain quantum entanglement in simple terms?’ and an AI tutor is replying with a clear explanation and a small citation icon.\n\n\n예시: 과학 탐구 노트북을 보다가 ’양자 얽힘’이라는 개념이 이해되지 않는다면, 채팅창에 바로 “양자 얽힘에 대해 더 쉽게 설명해줘”라고 질문할 수 있습니다. NotebookLM은 제공된 자료를 바탕으로, 출처가 명시된 답변을 생성해 줍니다. 이는 마치 24시간 대기하는 전문 튜터와 함께 공부하는 것과 같은 효과를 줍니다.\n\n\n3. 본질에 집중하게 만드는 시간 효율적 도구들\n방대한 텍스트를 모두 읽지 않아도 핵심을 파악할 수 있도록 돕는 기능들도 탑재되어 있습니다.\n\n\n\nA person looking at a tablet. On the screen, a mind map of a complex topic is displayed on one half, and an audio player with a waveform is on the other half, with headphones connected.\n\n\n예시: 노트북을 열면, 가장 먼저 ’마인드맵’이 주요 테마와 개념들을 시각적으로 보여줍니다. 전체적인 구조를 빠르게 파악한 후, ’오디오 개요’를 통해 핵심 내용을 음성으로 들으며 세부 사항으로 들어갈 준비를 할 수 있습니다. 이 두 가지 기능만으로도 사용자는 자료를 탐색하는 데 드는 시간을 획기적으로 줄이고, 중요한 본질에 더 집중할 수 있습니다."
+  },
+  {
+    "objectID": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
+    "href": "posts/notebooklm/index.html#마무리-지식-탐구의-새로운-지평을-열다",
+    "title": "NoteBookLM",
+    "section": "마무리: 지식 탐구의 새로운 지평을 열다",
+    "text": "마무리: 지식 탐구의 새로운 지평을 열다\nNotebookLM의 “Featured Notebooks” 기능은 단순한 정보 제공을 넘어, 신뢰할 수 있는 지식에 대한 접근성을 민주화하고, AI와의 상호작용을 통해 학습의 패러다임을 바꾸고 있습니다. 이는 개인이 전문가 수준의 자료를 바탕으로 더 깊이 있는 질문을 던지고, 창의적인 통찰을 얻을 수 있는 새로운 시대를 예고합니다.\n\n\n\nA person standing on a hill, looking out at a bright, futuristic landscape that represents the future of learning and knowledge exploration, with glowing data streams and network graphics.\n\n\n앞으로 이러한 AI 기반 학습 도구는 교육, 연구, 콘텐츠 제작 등 다양한 분야에서 개인의 지적 능력을 증폭시키는 핵심적인 역할을 하게 될 것입니다. 정보의 홍수 속에서 방향을 제시하는 등대를 넘어, 함께 항해하는 든든한 파트너로서 AI가 우리의 지식 탐구 여정을 어떻게 바꾸어 나갈지 기대해 봅니다."
+  },
+  {
+    "objectID": "posts/vibecoding/index.html",
+    "href": "posts/vibecoding/index.html",
+    "title": "코딩, 이제 ’분위기’로 말하세요: vibecoding의 모든 것",
+    "section": "",
+    "text": "혹시 코딩을 하다가 막히거나, 지루함을 느낀 적 없으신가요? 매일 반복되는 코드 작성에 지쳤다면, 이제 ‘vibecoding’에 주목할 때입니다. vibecoding은 단순히 기술적인 코딩을 넘어, 개발자의 감성과 환경을 최적화하여 창의성과 생산성을 극대화하는 새로운 접근 방식입니다.\n이는 코드를 작성하는 행위를 넘어, 개발 과정 자체를 즐겁고 몰입감 있는 경험으로 만드는 것을 목표로 합니다."
+  },
+  {
+    "objectID": "posts/vibecoding/index.html#vibecoding의-핵심-3요소",
+    "href": "posts/vibecoding/index.html#vibecoding의-핵심-3요소",
+    "title": "코딩, 이제 ’분위기’로 말하세요: vibecoding의 모든 것",
+    "section": "vibecoding의 핵심 3요소",
+    "text": "vibecoding의 핵심 3요소\nvibecoding은 다음 세 가지 핵심 요소를 통해 개발 과정을 더욱 풍요롭게 만듭니다.\n\n1. 최적의 분위기 조성 (Atmosphere)\n자신에게 맞는 음악, 조명, 그리고 잘 정돈된 책상은 단순한 환경을 넘어, 집중력과 안정감을 높이는 중요한 요소가 됩니다. 편안하고 안정적인 분위기는 창의적인 생각의 출발점입니다.\n\n\n\n최적의 코딩 분위기를 표현하는 추상 이미지\n\n\n\n\n2. 깊은 몰입 경험 (Flow)\n모든 방해 요소를 차단하고 오직 코드에만 집중하는 ‘플로우’ 상태는 vibecoding의 핵심입니다. 이 상태에서 개발자는 시간의 흐름을 잊고, 최고의 효율과 창의성을 발휘하게 됩니다.\n\n\n\n코드와 에너지가 흐르는 몰입 상태를 표현하는 이미지\n\n\n\n\n3. 창의적 코드 표현 (Creativity)\n정해진 틀에서 벗어나 자신만의 스타일과 감성을 코드에 녹여내는 것입니다. 이는 코드를 단순한 명령의 나열이 아닌, 하나의 창작물로 만드는 과정입니다. 주석에 시적인 표현을 더하거나, 변수명에 위트를 담는 등 작은 시도도 좋습니다.\n\n\n\n창의적인 코딩을 표현하는 다채로운 이미지"
+  },
+  {
+    "objectID": "posts/vibecoding/index.html#vibecoding-어떻게-시작할-수-있을까",
+    "href": "posts/vibecoding/index.html#vibecoding-어떻게-시작할-수-있을까",
+    "title": "코딩, 이제 ’분위기’로 말하세요: vibecoding의 모든 것",
+    "section": "vibecoding, 어떻게 시작할 수 있을까?",
+    "text": "vibecoding, 어떻게 시작할 수 있을까?\n그렇다면 vibecoding을 어떻게 시작할 수 있을까요? 거창한 준비는 필요 없습니다. 일상에서 작은 변화를 주는 것만으로도 충분합니다.\n\n나만의 플레이리스트 만들기: 집중력을 높여주는 Lo-fi 음악, 혹은 창의성을 자극하는 클래식 등 자신에게 맞는 음악을 찾아보세요.\n조명과 책상 정리: 눈이 편안한 조명을 사용하고, 책상을 깔끔하게 정리하는 것만으로도 기분 전환은 물론, 업무 효율도 높일 수 있습니다.\n‘방해금지’ 시간 설정: 특정 시간에는 모든 알림을 끄고 코딩에만 집중하는 시간을 가져보세요. ‘플로우’ 상태에 더 쉽게 도달할 수 있습니다."
+  },
+  {
+    "objectID": "posts/vibecoding/index.html#vibecoding의-미래",
+    "href": "posts/vibecoding/index.html#vibecoding의-미래",
+    "title": "코딩, 이제 ’분위기’로 말하세요: vibecoding의 모든 것",
+    "section": "vibecoding의 미래",
+    "text": "vibecoding의 미래\nvibecoding은 개발을 단순한 ’일’이 아닌, ‘즐거운 창작 활동’으로 변화시킬 잠재력을 가지고 있습니다. 이는 개발자의 번아웃을 예방하고, 장기적으로는 더욱 혁신적이고 인간적인 소프트웨어의 탄생으로 이어질 수 있습니다.\n여러분도 오늘부터 ’vibecoding’을 통해 코딩의 새로운 즐거움을 발견해 보세요."
+  },
+  {
+    "objectID": "posts/vibecoding/index.html#참고-자료",
+    "href": "posts/vibecoding/index.html#참고-자료",
+    "title": "코딩, 이제 ’분위기’로 말하세요: vibecoding의 모든 것",
+    "section": "참고 자료",
+    "text": "참고 자료\n\nVibecoding: The Art of Development\nGetting Started with Vibecoding\nThe Impact of Vibecoding on Productivity"
   }
 ]
